@@ -10,19 +10,19 @@ multi-objective optimization · BIM/IFC automation
 
 ### Projects
 
-**[Conowingo reservoir under climate uncertainty](https://github.com/ygurmeric/conowingo-reservoir-uncertainty)**
+**[Conowingo reservoir under climate uncertainty](https://github.com/ygurmeric/conowingo-reservoir-uncertainty)**, CE48V course project, Boğaziçi University, Fall 2026
 Daily water balance simulation, NSGA-II design of drought measures, climate scenarios that change the
 extremes and not only the mean, and a regret-based robustness test of adaptation options.
 *Python · NSGA-II · scenario analysis*
 
-**[Data science for civil engineers](https://github.com/ygurmeric/ce49x-civil-data-science)**
+**[Data science for civil engineers](https://github.com/ygurmeric/ce49x-civil-data-science)**, CE49X coursework, Boğaziçi University, Spring 2025
 Life cycle assessment of construction products, a regression baseline for concrete compressive
 strength, and classification of construction documents.
 *Python · pandas · scikit-learn · pytest*
 
 **Structural model of a multi-story CLT and glulam building**, senior design project, ongoing
-A Python toolchain on the SAP2000 API that builds a finite-element model of about 1,000 glulam frame
-elements and 5,000 CLT shell elements from IFC and DWG reference files.
+A Python toolchain on the SAP2000 API that builds a finite-element model of the glulam frame
+and CLT panels from IFC and DWG reference files.
 *Python · SAP2000 OAPI · IfcOpenShell*
 
 ### Experience
