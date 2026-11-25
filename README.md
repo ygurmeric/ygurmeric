@@ -20,10 +20,12 @@ Life cycle assessment of construction products, a regression baseline for concre
 strength, and classification of construction documents.
 *Python · pandas · scikit-learn · pytest*
 
-**Structural model of a multi-story CLT and glulam building**, senior design project, ongoing
-A Python toolchain on the SAP2000 API that builds a finite-element model of the glulam frame
-and CLT panels from IFC and DWG reference files.
-*Python · SAP2000 OAPI · IfcOpenShell*
+**Structural model and timber design of a multi-story CLT and glulam building**, senior design project, Boğaziçi University, ongoing (final presentation April 2027)
+A simplified finite-element model in SAP2000, built from IFC and DWG reference files, with Python
+scripts on the SAP2000 API automating geometry import and connection assignment. Timber connections
+are represented as zero-length links that carry connector stiffness. Next phase: TBDY 2018 / TS 498
+load combinations and EN 1995-1-1 design checks.
+*Python · SAP2000 OAPI · IfcOpenShell · EN 1995*
 
 ### Experience
 Structural engineering intern at **Arup** · Planning and value creation at **Enerjisa Üretim** ·
