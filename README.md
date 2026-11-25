@@ -4,7 +4,8 @@ Final-year Civil Engineering student at **Boğaziçi University**, Istanbul, wit
 structural engineering. I work on data-driven methods for structures and infrastructure, and on
 making engineering decisions that hold up under uncertainty.
 
-**Research interests:** data-driven structural engineering · ML surrogate models for structures ·
+**Research interests:** data-driven structural engineering · timber structures ·
+ML surrogate models for structures ·
 structural health monitoring · infrastructure resilience · decision-making under deep uncertainty ·
 multi-objective optimization · BIM/IFC automation
 
